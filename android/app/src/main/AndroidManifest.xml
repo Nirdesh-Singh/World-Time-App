@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="nirdesh.com.world_time">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="world_time"
         android:icon="@mipmap/ic_launcher">
